@@ -124,7 +124,7 @@ let keyvalue;
      }
 
 else{
-     alert("you pressed wrong key")
+       
 }
    });
 
